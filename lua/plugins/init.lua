@@ -25,9 +25,6 @@ return {
     dependencies = {
       "nvim-lua/plenary.nvim",
     },
-    keys = {
-      { "lg", "LazyGit", desc = "LazyGit" }
-    },
   },
   {
     "github/copilot.vim",
